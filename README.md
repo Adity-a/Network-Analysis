@@ -7,12 +7,13 @@ An android app developed in java which can scan wifi network around the device w
 - **Scan port and device connected**: Identify open ports and devices connected to same network.
 - **Password Manager**: Offline password manager with all password backup.
 
-## Demo Images
-<p float="left">
-  <img src="https://github.com/Adity-a/Network-Analysis/blob/main/Screenshots/1.jpg" alt="Alt Text" style="width:50%; height:auto;">
-<img src="https://github.com/Adity-a/Network-Analysis/blob/main/Screenshots/2.jpg" alt="Alt Text" style="width:50%; height:auto;">
-<img src="https://github.com/Adity-a/Network-Analysis/blob/main/Screenshots/3.jpg" alt="Alt Text" style="width:50%; height:auto;">
-</p>
+### Screenshots
+
+| Scan-WiFi | Scan-Network |
+| :---: | :---: |
+| ![App Screenshot 1](https://github.com/Adity-a/Network-Analysis/blob/main/Screenshots/1.jpg) | ![App Screenshot 2](https://github.com/Adity-a/Network-Analysis/blob/main/Screenshots/3.jpg) |
+
+---
 
 ## Installation
 
