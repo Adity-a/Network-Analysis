@@ -18,7 +18,7 @@ An android app developed in java which can scan wifi network around the device w
 ## Installation
 
 1. Clone the repository:
-[git clone https://github.com/Adity-a/presence-android-app.git](https://github.com/Adity-a/Network-Analysis.git)
+[git clone https://github.com/Adity-a/Netework-Analysis.git](https://github.com/Adity-a/Network-Analysis.git)
 
 2. Open the project in Android Studio.
 
